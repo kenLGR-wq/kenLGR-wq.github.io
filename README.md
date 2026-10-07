@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ken LGR</h1>
+
 <h3 align="center">A passionate frontend developer from Nairobi,Kenya</h3>
 
 - 🔭 I’m currently working on [Website development](Lgrtech98.github.io)
