@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Backend development**
 
-- 👨‍💻 All of my projects are available at [L](L)
+- 👨‍💻 All of my projects are available at {lgrtech98.github.io}
 
 - 💬 Ask me about **React, vue**
 
