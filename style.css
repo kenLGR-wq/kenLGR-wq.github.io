@@ -1,0 +1,89 @@
+body{
+    font-family: Arial, sans-serif;
+    margin:0;
+    padding:20px;
+
+    background-image:url("images/background.jpg");
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+
+    color:white;
+}
+
+header,
+section,
+footer{
+    background:rgba(0,0,0,0.7);
+
+    max-width:800px;
+    margin:20px auto;
+    padding:20px;
+
+    border-radius:10px;
+
+    animation:fadeIn 1s ease-in;
+}
+
+.profile{
+    width:180px;
+    height:180px;
+
+    border-radius:50%;
+
+    display:block;
+    margin:auto;
+}
+
+.project-image{
+    width:100%;
+    border-radius:10px;
+}
+
+h1,h2{
+    text-align:center;
+}
+
+.btn{
+    background:#0366d6;
+    color:white;
+    text-decoration:none;
+
+    padding:10px 20px;
+    border-radius:5px;
+}
+
+form input,
+form textarea{
+    width:100%;
+    padding:10px;
+    margin-bottom:10px;
+}
+
+button{
+    padding:10px 20px;
+    cursor:pointer;
+}
+
+.dark{
+    background:#121212;
+    color:white;
+}
+
+.dark section,
+.dark header,
+.dark footer{
+    background:#222;
+}
+
+@keyframes fadeIn{
+    from{
+        opacity:0;
+        transform:translateY(20px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
