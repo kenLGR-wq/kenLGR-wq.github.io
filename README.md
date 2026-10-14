@@ -6,13 +6,23 @@
 
 - 🌱 I’m currently learning **Programming**
 
+
+  
+
 - 👯 I’m looking to collaborate on **Different projects**
+
+  
 
 - 🤝 I’m looking for help with **Backend development**
 
+  
+
 - 👨‍💻 All of my projects are available at {lgrtech98.github.io}
+  
 
 - 💬 Ask me about **React, vue**
+
+
 
 - 📫 How to reach me **lgrken6@gmail.com**
 
